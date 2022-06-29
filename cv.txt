@@ -1,0 +1,4 @@
+Ini adalah file CV
+Perusahaan 1 : PT.Maju Jaya
+Perusahaan 2 : PT.Indah Karya
+Perusahaan 3 : PT.Unggulan
